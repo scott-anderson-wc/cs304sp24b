@@ -1,4 +1,7 @@
 # cs304sp24b
 
-Team members Scott and Scott
+Team members Scott Captain and Scott Mate
+
+
+
 
